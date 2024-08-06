@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MINERD</string>
+    <string name="et_titulo_hint">Título</string>
+    <string name="et_centro_educativo_hint">Centro Educativo</string>
+    <string name="et_regional_hint">Regional</string>
+    <string name="et_distrito_hint">Distrito</string>
+    <string name="et_fecha_hint">Fecha</string>
+    <string name="et_descripcion_hint">Descripción</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btnGuardarIncidencia">Guardar</string>
+    <string name="btnRegistroIncidencia">Guardar</string>
+    <string name="btn_Seleccionar_Imagen">Tomar Foto</string>
+    <string name="toast_guardar_exitoso">Incidencia guardada</string>
+    <string name="toast_error_guardar">Error al guardar la incidencia</string>
+    <string name="toast_audio_grabado">Audio grabado: %1$s</string>
+    <string name="toast_foto_tomada">Foto tomada: %1$s</string>
+    <string name="permiso_denegado">Permisos denegados</string>
+</resources>
